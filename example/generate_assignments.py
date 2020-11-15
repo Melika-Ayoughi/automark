@@ -1872,8 +1872,8 @@ if __name__ == '__main__':
     # args = parser.parse_args()
 
     # if args.week2:
-    #     make_data_week_1_2_loc('../automark_server/assignments/local_tests.pickle')
-    #     make_data_week_1_2_remote('../automark_server/assignments/remote_tests.pickle')
+    make_data_week_1_2_loc('../automark_server/assignments/local_tests.pickle')
+    make_data_week_1_2_remote('../automark_server/assignments/remote_tests.pickle')
     # else:
-    make_data_week_1_loc('../automark_server/assignments/local_tests.pickle')
-    make_data_week_1_remote('../automark_server/assignments/remote_tests.pickle')
+    # make_data_week_1_loc('../automark_server/assignments/local_tests.pickle')
+    # make_data_week_1_remote('../automark_server/assignments/remote_tests.pickle')
